@@ -31,6 +31,4 @@
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
         </VerticalStackLayout>
-    </ScrollView>
-
 </ContentPage>
